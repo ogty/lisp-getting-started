@@ -1,1 +1,1 @@
-# memo
+# LISP Getting Started

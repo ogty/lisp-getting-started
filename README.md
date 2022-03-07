@@ -1,4 +1,4 @@
-# LISP Getting Started
+# Lisp Getting Started
 
 ```bash
 $ brew install clisp
